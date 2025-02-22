@@ -1,0 +1,12 @@
+.postContainer{
+    margin: 20px 70px;
+    width: 1000px;
+    border: none;
+    border-radius: 5px;
+}
+.postListContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}

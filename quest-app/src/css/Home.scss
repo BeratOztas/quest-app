@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 100px;
+    width: 100%;
+    background-color: rgb(222, 236, 231);
+    height: 100vh,auto;
+}
+.authContainer{
+    margin-top: 100px;
+    width: 100%;
+    background-color: rgb(222, 236, 231);
+    height: 100vh,auto;
+}
+.userContainer{
+    margin-top: 100px;
+    width: 100%;
+    background-color: rgb(173, 241, 218);
+    height: 100vh,auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
